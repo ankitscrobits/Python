@@ -27,3 +27,5 @@ index, score = sorted(list(enumerate(scores)), key=lambda x : x[1])[-1]
 
 print(documents[index])
 print("similartiy socre is:", score)
+
+#Run using:- Python Models/3.EmbeddedModels/4_document_similarity.py

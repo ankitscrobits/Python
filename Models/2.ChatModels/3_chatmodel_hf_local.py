@@ -16,3 +16,5 @@ model = ChatHuggingFace(llm=llm)
 result = model.invoke("What is the capital of India?")
 
 print(result.content)
+
+#Python Models/2.ChatModels/3_chatmodel_hf_local.py 

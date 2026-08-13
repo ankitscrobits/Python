@@ -16,3 +16,7 @@ sentence-transformers
 
 python-dotenv
 scikit-learn
+streamlit
+
+# Run Using:- pip install -r requirements.txt
+    

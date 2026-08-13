@@ -12,3 +12,5 @@ documents = [
 vector = embeddings.embed_documents(documents)
 
 print(str(vector))
+
+#Run using:- Python Models/3.EmbeddedModels/3_embedding_hf_local.py

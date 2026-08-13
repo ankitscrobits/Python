@@ -15,3 +15,5 @@ documents = [
 result = embeddings.embed_documents(documents)
 
 print(str(result))
+
+#Run using:- Python Models/3.EmbeddedModels/2_embedding_gemini_docs.py

@@ -15,3 +15,5 @@ model = ChatHuggingFace(llm=llm)
 response = model.invoke("Hello, how are you?")
 
 print(response.content)
+
+#Run using:- Python Models/2.ChatModels/2_chatmodel_hf_api.py
